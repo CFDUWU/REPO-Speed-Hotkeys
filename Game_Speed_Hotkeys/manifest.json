@@ -1,0 +1,9 @@
+{
+    "name": "Game_Speed_Hotkeys",
+    "version_number": "1.0.0",
+    "website_url": "t.me/cfdteam_tg",
+    "description": "Hotkeys to change game speed: F1 0.25x, F2 1x, F3 2x, F4 5x, F5 10x, F6 15x, F7 0.001x. by CFDTeam",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
