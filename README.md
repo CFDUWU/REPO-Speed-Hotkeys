@@ -14,4 +14,4 @@ Change the game speed with hotkeys.
 
 Pressing the key of the active speed again returns to normal (1x).
 
-download only from thunderstone (https://thunderstore.io/c/repo/p/CFDTeam/Game_Speed_Hotkeys/), github and telegram (t.me/cfdteam_tg)
+download only from thunderstone (thunderstore.io/c/repo/p/CFDTeam/Game_Speed_Hotkeys/), github and telegram (t.me/cfdteam_tg)
